@@ -1,0 +1,408 @@
+
+---
+
+# - name: ICML
+#   year: 2019
+#   id: icml19
+#   link: https://icml.cc/Conferences/2019
+#   deadline: "2019-01-23 23:59:59"
+#   timezone: America/Los_Angeles
+#   date: June 10-15, 2019
+#   place: Long Beach, CA
+#   sub: ML
+
+#- name: IJCAI
+#  year: 2019
+#  id: ijcai19
+#  link: https://www.ijcai19.org/
+#  deadline: "2019-02-25 23:59:59"
+#  timezone: Etc/GMT+12
+#  date: August 10-16, 2019
+#  place: Macao, China
+#  sub: ML
+
+#- name: ICCV
+#  year: 2019
+#  id: iccv2019
+#  link: http://iccv2019.thecvf.com
+#  deadline: "2019-03-22 23:59:59"
+#  timezone: America/Los_Angeles
+#  date: Oct. 27- Nov. 3, 2019
+#  place: Seoul, Korea
+#  hindex: 89
+#  sub: CV
+
+#- name: ACM MM
+#  year: 2019
+#  id: acmmm19
+#  link: http://acmmm.org/2019/
+#  deadline: "2019-04-08 23:59:59"
+#  timezone: Etc/GMT+7
+#  date: October 21-25, 2018
+#  place: Nice, France
+#  hindex: 44
+#  sub: MM
+
+#- name: NeurIPS
+#  year: 2019
+#  id: nips19
+#  link: https://neurips.cc/Conferences/2019
+#  deadline: "2019-05-23 13:00:00"
+#  timezone: America/Los_Angeles
+#  date: December 2-8, 2019
+#  place: "Vancouver Convention Center, Vancouver Canada"
+#  hindex: 101
+#  sub: ML
+  
+#- name: AAAI
+#  year: 2020
+#  id: aaai20
+#  link: https://aaai.org/Conferences/AAAI-20/
+#  deadline: "TBA"
+#  timezone: Etc/GMT+10
+#  date: February 7-12, 2020
+#  place: New York Hilton Midtown, New York, NY USA
+#  hindex: 56
+#  sub: ML
+
+# - name: CVPR
+#   year: 2020
+#   id: cvpr2020
+#   link: http://cvpr2020.thecvf.com
+#   deadline: "2019-11-15 23:59:59"
+#   timezone: America/Los_Angeles
+#   date: June 14-19, 2020
+#   place: Seattle, USA
+#   hindex: 158
+#   sub: CV
+  
+# - name: IJCAI
+#   year: 2020
+#   id: ijcai20
+#   link: https://www.ijcai20.org
+#   deadline: "2020-01-21 23:59:59"
+#   timezone: Etc/GMT+12
+#   date: July 11-17, 2020
+#   place: Yokohama, Japan
+#   sub: ML
+  
+# - name: ECCV
+#   year: 2020
+#   id: eccv20
+#   link: https://eccv2020.eu
+#   deadline: "2020-03-05 15:59:00"
+#   timezone: America/Los_Angeles
+#   date: August 23-28, 2020
+#   place: SEC, GLASGOW
+#   h-index: 98
+#   sub: CV
+
+# - name: ACM MM
+#   year: 2020
+#   id: acmmm20
+#   link: https://www.acmmm.org/2020/
+#   deadline: "2020-03-28 23:59:59"
+#   timezone: Etc/GMT+7
+#   date: October 12-16, 2020
+#   place: Seattle, USA
+#   hindex: 44
+#   sub: MM
+
+- name: TIP
+  year: 
+  id: tip
+  link: http://mc.manuscriptcentral.com/tip-ieee
+  deadline: Whenever
+  timezone: America/Los_Angeles
+  date: Whenever
+  place: Wherever
+  hindex: 102
+  sub: MM
+
+- name: TPAMI
+  year: 
+  id: tpami
+  link: http://mc.manuscriptcentral.com/tpami-cs
+  deadline: Whenever
+  timezone: America/Los_Angeles
+  date: Whenever
+  place: Wherever
+  hindex: 114
+  sub: CV
+
+- name: IJCV
+  year: 
+  id: ijcv
+  link: http://www.springer.com/computer/image+processing/journal/11263
+  deadline: Whenever
+  timezone: America/Los_Angeles
+  date: Whenever
+  place: Wherever
+  hindex: 68
+  sub: CV
+
+- name: TMM
+  year: 
+  id: tmm
+  link: http://mc.manuscriptcentral.com/tmm-ieee
+  deadline: Whenever
+  timezone: America/Los_Angeles
+  date: Whenever
+  place: Wherever
+  hindex: 58
+  sub: MM
+
+- name: TCSVT
+  year: 
+  id: tcsvt
+  link: http://mc.manuscriptcentral.com/tcsvt
+  deadline: Whenever
+  timezone: America/Los_Angeles
+  date: Whenever
+  place: Wherever
+  hindex: 54
+  sub: MM
+
+- name: JMLR
+  year: 
+  id: jmlr
+  link: http://www.jmlr.org/author-info.html
+  deadline: Whenever
+  timezone: America/Los_Angeles
+  date: Whenever
+  place: Wherever
+  hindex: 73
+  sub: ML
+
+# - name: ICCV
+#   year: 2017
+#   id: iccv17
+#   link: http://iccv2017.thecvf.com/
+#   deadline: "2017-03-17 23:59:59"
+#   timezone: Etc/GMT+7
+#   date: October 22-29, 2017
+#   place: Venice, Italy
+#   sub: CV
+
+# - name: ACM MM
+#   year: 2017
+#   id: acmmm17
+#   link: http://acmmm.org/2017/
+#   deadline: "2017-04-20 23:59:59"
+#   timezone: Etc/GMT-12
+#   date: October 22-26, 2018
+#   place: Seoul, Korea
+#   sub: MM
+
+# - name: ICLR
+#   year: 2018
+#   id: iclr18
+#   link: http://iclr.cc/
+#   deadline: "2017-10-27 17:00:00"
+#   timezone: America/Los_Angeles
+#   date: April 30-May 3, 2018
+#   place: Vancouver Convention Center, Vancouver, Canada
+#   sub: ML
+
+# - name: ICASSP
+#   year: 2018
+#   id: icassp18
+#   link: https://2018.ieeeicassp.org/
+#   deadline: "2017-10-27 23:59:59"
+#   timezone: America/Los_Angeles
+#   date: April 15-20, 2018
+#   place: Calgary, Alberta, Canada
+#   sub: MM
+
+# - name: CVPR
+#   year: 2018
+#   id: cvpr18
+#   link: http://cvpr2018.thecvf.com/
+#   deadline: "2017-11-15 23:59:59"
+#   timezone: America/Los_Angeles
+#   date: June 18-23, 2018
+#   place: Salt Lake City, Utah
+#   sub: CV
+
+# - name: SIGGRAPH
+#   year: 2018
+#   id: siggraph18
+#   link: http://s2018.siggraph.org/
+#   deadline: "2018-01-23 21:59:59"
+#   timezone: GMT
+#   date: August 12-16, 2018
+#   place: Vancouver, Canada
+#   sub: CG
+
+# - name: IJCAI
+#   year: 2018
+#   id: ijcai18
+#   link: https://www.ijcai-18.org/
+#   deadline: "2018-01-31 23:59:59"
+#   timezone: Etc/GMT+12
+#   date: July 13-19, 2018
+#   place: Stockholm, Sweden
+#   sub: ML
+
+# - name: ICML
+#   year: 2018
+#   id: icml18
+#   link: https://icml.cc/Conferences/2018
+#   deadline: "2018-02-09 18:59:59"
+#   timezone: EST
+#   date: July 10-15, 2018
+#   place: Stockholm, Sweden
+#   sub: ML
+
+# - name: KDD
+#   year: 2018
+#   id: kdd18
+#   link: http://www.kdd.org/kdd2018/
+#   deadline: "2018-02-11 23:59:59"
+#   timezone: America/Los_Angeles
+#   date: August 19-23, 2018
+#   place: London, United Kingdom
+#   sub: ML
+
+# - name: UAI
+#   year: 2018
+#   id: uai18
+#   link: http://auai.org/uai2018/index.php
+#   deadline: "2018-03-09 23:59:59"
+#   timezone: Etc/GMT+11
+#   date: August 06-10, 2018
+#   place: Monterey, California, USA
+#   sub: ML
+
+# - name: ICME
+#   year: 2018
+#   id: icme18
+#   link: http://www.icme2018.org
+#   deadline: "2017-12-15 23:59:59"
+#   timezone: Etc/GMT+7
+#   date: July 23-27, 2018
+#   place: San Diego, USA
+#   h-index: 25
+#   sub: MM
+
+# - name: MICCAI
+#   year: 2018
+#   id: miccai18
+#   link: http://www.miccai2018.org
+#   deadline: "2018-03-02 23:59:59"
+#   timezone: Etc/GMT+7
+#   date: September 16-20, 2018
+#   place: Granada, Spain
+#   h-index: 34
+#   sub: MM
+
+# - name: ECCV
+#   year: 2018
+#   id: eccv18
+#   link: https://eccv2018.org/
+#   deadline: "2018-03-14 15:59:00"
+#   timezone: America/Los_Angeles
+#   date: September 8-14, 2018
+#   place: Munich, Germany
+#   h-index: 98
+#   sub: CV
+
+# - name: ACM MM
+#   year: 2018
+#   id: acmmm18
+#   link: http://acmmm.org/2018/
+#   deadline: "2018-04-08 23:59:59"
+#   timezone: Etc/GMT+7
+#   date: October 22-26, 2018
+#   place: Seoul, Korea
+#   hindex: 44
+#   sub: MM
+
+# - name: NIPS
+#   year: 2018
+#   id: nips18
+#   link: https://nips.cc/Conferences/2018
+#   deadline: "2018-05-18 13:00:00"
+#   timezone: America/Los_Angeles
+#   date: December 3-8, 2018
+#   place: "Palais des Congr\xE8s de Montr\xE9al, Montr\xE9al, Canada"
+#   hindex: 101
+#   sub: ML
+
+# - name: SPIC-SI on Advances in statistical methods-based visual quality assessment
+#   year: 
+#   id: spic-si18
+#   link: https://www.journals.elsevier.com/signal-processing-image-communication/call-for-papers/special-issue-on-advances-in-statistical-methods-based-visua
+#   deadline: "2018-05-31 23:59:59"
+#   timezone: Etc/GMT+7 # ...
+#   date: November 30, 2018 (Final decision)
+#   place: None
+#   hindex: 31
+#   sub: MM
+
+# - name: ACCV
+#   year: 2018
+#   id: accv18
+#   link: http://accv2018.net/
+#   deadline: "2018-07-05 23:59:59"
+#   timezone: America/Los_Angeles
+#   date: December 2-6, 2018
+#   place: Perth, Western Australia
+#  hindex: 35
+#   sub: CV
+
+
+# - name: AAAI
+#   year: 2019
+#   id: aaai19
+#   link: https://aaai.org/Conferences/AAAI-19/
+#   deadline: "2018-09-05 23:59:59"
+#   timezone: Etc/GMT+10
+#   date: January 27 - February 1, 2019
+#   place: Hilton Hawaiian Village, Honolulu, Hawaii, USA
+#   hindex: 56
+#   sub: ML
+
+# - name: ICASSP
+#   year: 2019
+#   id: icassp2019
+#   link: http://icassp2019.com/
+#   deadline: "2018-10-29 23:59:59"
+#   timezone: Etc/GMT
+#   date: May 12-17, 2019
+#   place: Brighton, UK
+#   hindex: 67
+#   sub: MM
+
+# - name: DCC
+#   year: 2019
+#   id: dcc2019
+#   link: http://www.cs.brandeis.edu/~dcc/index.html
+#   deadline: "2018-11-01 23:59:59"
+#   timezone: Etc/GMT
+#   date: March 26-29, 2019 
+#   place: Snowbird, Utah
+#   hindex: 17
+#   sub: MM
+
+#- name: CVPR
+#  year: 2019
+#  id: cvpr2019
+#  link: http://cvpr2019.thecvf.com
+#  deadline: "2018-11-16 23:59:59"
+#  timezone: America/Los_Angeles
+#  date: June 15-21, 2019
+#  place: Long Beach, CA
+#  hindex: 158
+#  sub: CV
+  
+# - name: ICME
+#   year: 2019
+#   id: icme19
+#   link: http://www.icme2019.org
+#   deadline: "2018-12-03 23:59:59"
+#   timezone: Etc/GMT+7
+#   date: July 8-12, 2019
+#   place: Shanghai, China
+#   h-index: 25
+#   sub: MM

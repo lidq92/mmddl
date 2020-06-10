@@ -1,0 +1,10 @@
+---
+- name: Multimedia
+  sub: MM
+- name: Machine Learning
+  sub: ML
+- name: Computer Vision
+  sub: CV
+- name: Computer Graphics
+  sub: CG
+
