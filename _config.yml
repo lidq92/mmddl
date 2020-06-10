@@ -5,10 +5,10 @@ author: Dingquan Li
 
 
 domain: lidq92.github.io
-baseurl: 
+baseurl: https://lidq92.github.io/mmddl
 
 github_username: lidq92
-github_repo: lidq92.github.io
+github_repo: mmddl
 
 markdown: kramdown
 ga_id: UA-36274081-2
