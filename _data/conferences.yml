@@ -109,15 +109,15 @@
 #   sub: MM
 
 - name: AAAI
- year: 2021
- id: aaai21
- link: https://aaai.org/Conferences/AAAI-21/
- deadline: "TBA"
- timezone: Etc/GMT+10
- date: February 2-9, 2021
- place: Vancouver, British Columbia, Canada
- hindex: 56
- sub: ML
+  year: 2021
+  id: aaai21
+  link: https://aaai.org/Conferences/AAAI-21/
+  deadline: "TBA"
+  timezone: Etc/GMT+10
+  date: February 2-9, 2021
+  place: Vancouver, British Columbia, Canada
+  hindex: 56
+  sub: ML
 
 - name: CVPR
   year: 2021
