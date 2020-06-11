@@ -108,7 +108,6 @@
 #   hindex: 44
 #   sub: MM
 
-
 - name: AAAI
  year: 2021
  id: aaai21
@@ -119,7 +118,6 @@
  place: Vancouver, British Columbia, Canada
  hindex: 56
  sub: ML
-
 
 - name: CVPR
   year: 2021
