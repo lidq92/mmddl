@@ -108,6 +108,30 @@
 #   hindex: 44
 #   sub: MM
 
+
+- name: AAAI
+ year: 2021
+ id: aaai21
+ link: https://aaai.org/Conferences/AAAI-21/
+ deadline: "TBA"
+ timezone: Etc/GMT+10
+ date: February 2-9, 2021
+ place: Vancouver, British Columbia, Canada
+ hindex: 56
+ sub: ML
+
+
+- name: CVPR
+  year: 2021
+  id: cvpr2021
+  link: http://cvpr2021.thecvf.com
+  deadline: "TBA"
+  timezone: America/Los_Angeles
+  date: June 21-24, 2021
+  place: Nashville, TN, United States
+  hindex: 158
+  sub: CV
+
 - name: TIP
   year: 
   id: tip

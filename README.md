@@ -1,9 +1,9 @@
 ## Multimedia Deadlines
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](License)
 
-Countdown timers to keep track of conference deadlines that are related to multimedia (MM), as well as CV/ML/CG/PR/AI/SIViP/MIP, etc.
+Countdown timers to keep track of conference/journal deadlines that are related to multimedia (MM), as well as CV/ML/CG/PR/AI/SIViP/MIP, etc.
 
-## Adding/updating a conference
+## Adding/updating a conference/journal (special issue)
 
 - Fork the repository
 - Update `_data/conferences.yml`
