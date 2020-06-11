@@ -1,10 +1,10 @@
 title: Multimedia Deadlines # (Maintained by @lidq92)
 # email: dingquanli@pku.edu.cn
-description: Countdown timers to keep track of conference deadlines that are related to multimedia (MM).
+description: Countdown timers to keep track of conference/journal deadlines that are related to multimedia (MM).
 author: Dingquan Li
 
 
-domain: lidq92.github.io
+domain: ""
 baseurl: https://lidq92.github.io/mmddl
 
 github_username: lidq92

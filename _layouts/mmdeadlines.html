@@ -31,7 +31,7 @@
                 </div>
                 <div class="meta col-xs-12">
                   {{ site.description }}
-                  To add/update a conference/journal, <a target="_blank" href="//github.com/{{ site.github_username }}/{{ site.github_repo }}">send in a pull request</a>.
+                  To add/update a conference/journal (special issue), <a target="_blank" href="//github.com/{{ site.github_username }}/{{ site.github_repo }}">send in a pull request</a>.
                 </div>
                 <div class="meta col-xs-12">
                   Neuroscience conference deadlines can be found in <a target="_blank" href="//neuro-deadlines.tbryngrey.com">Neuro-Deadlines</a>.
@@ -172,7 +172,7 @@
           }
         }
         store.set('{{ site.domain }}', subs);
-        window.history.pushState('', '', 'mmddl/?sub=' + subs.join());
+        window.history.pushState('', '', '?sub=' + subs.join());
 
         // Event handler on checkbox change
         $('form :checkbox').change(function(e) {
@@ -192,7 +192,7 @@
           }
           console.log(subs);
           store.set('{{ site.domain }}', subs);
-          window.history.pushState('', '', 'mmddl/?sub=' + subs.join());
+          window.history.pushState('', '', '?sub=' + subs.join());
         });
     });
     <!-- Google analytics -->
